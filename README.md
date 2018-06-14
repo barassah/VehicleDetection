@@ -1,2 +1,2 @@
 # VehicleDetection
-An intelligent dengerous driver detection and reporting
+An intelligent dangerous driver detection and reporting
